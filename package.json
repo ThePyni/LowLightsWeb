@@ -1,0 +1,26 @@
+{
+  "name": "lowlightsweb",
+  "version": "1.0.0",
+  "description": "Web for MCV Game Project Low Lights",
+  "main": "release.js",
+  "dependencies": {
+    "total.js": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node release.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThePyni/LowLightsWeb.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "ThePyni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThePyni/LowLightsWeb/issues"
+  },
+  "homepage": "https://github.com/ThePyni/LowLightsWeb#readme"
+}
